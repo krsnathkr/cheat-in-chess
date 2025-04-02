@@ -1,0 +1,8 @@
+# Ignore datasets folder
+datasets/
+datasets.zip
+
+# Optional: ignore training outputs and weights
+runs/
+*.pt
+*.cache

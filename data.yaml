@@ -1,0 +1,6 @@
+train: D:\Code\Github\cheat-in-chess\datasets\images\train
+val: D:\Code\Github\cheat-in-chess\datasets\images\val
+test: D:\Code\Github\cheat-in-chess\datasets\images\test
+
+nc: 12
+names: ['black-bishop', 'black-king', 'black-knight', 'black-pawn', 'black-queen', 'black-rook', 'white-bishop', 'white-king', 'white-knight', 'white-pawn', 'white-queen', 'white-rook']
