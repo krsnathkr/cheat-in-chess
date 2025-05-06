@@ -29,7 +29,6 @@ Real‑time chess assistant that watches your game through a webcam (or an optio
 | **Perspective warp** | Converts any camera angle into a 512 × 512 top‑down view without stretching or cropping squares. |
 | **FEN exporter** | Maps each detection to its square → builds a legal FEN in < 1 ms. |
 | **Resilient Stockfish 17.1 wrapper** | Auto‑restarts the engine if it crashes, returns a sentinel after three failed launches. |
-| **pyttsx3 TTS** | Speaks moves in natural language (“Knight takes e‑four, promote to Queen”). |
 | **Unicode board in terminal** | Live diagram refreshes on every new position. |
 | **Config‑first design** | All paths, board size, think time, etc. live in `config.py`. |
 
