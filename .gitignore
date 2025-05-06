@@ -6,3 +6,5 @@ datasets.zip
 runs/
 *.pt
 *.cache
+/stockfish-windows-x86-64-avx2
+/aruco_tags
