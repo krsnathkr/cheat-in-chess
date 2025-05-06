@@ -1,4 +1,4 @@
-# Cheat‑in‑Chess  🎥 ♟️ 🔊 
+# Cheat‑in‑Chess
 
 Real‑time chess assistant that watches your game through a webcam (or an optional Meta Ray‑Ban + OBS virtual cam), recognises every piece on the board, converts the position to FEN, queries Stockfish, **speaks** the best move in your ear, and prints a live Unicode board in the terminal.
 
